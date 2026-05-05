@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arubis.github.io/snippets-q9real/sitemap.xml
